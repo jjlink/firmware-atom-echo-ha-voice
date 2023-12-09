@@ -192,7 +192,7 @@ script:
                 red: 100%
                 green: 89%
                 blue: 71%
-                brightness: 60%
+                brightness: 1%
                 effect: none
           else:
             - light.turn_off: led
